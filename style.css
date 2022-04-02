@@ -1,3 +1,8 @@
 body{
     background-color: rgb(119, 231, 194);
 }
+.main_title{
+    font-size: 30px;
+    background-color: aquamarine;
+    text-align: center;
+}
